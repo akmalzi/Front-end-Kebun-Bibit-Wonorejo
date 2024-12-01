@@ -1,73 +1,72 @@
 [
-    {
-      "parameter": "1",
-      "nama" : "Puring",
-      "nama-latin": "Codiaeum variegatum",
-      "penjelasan": "Tanaman pada gambar adalah Puring atau dikenal juga sebagai Croton (Codiaeum variegatum). Puring memiliki karakteristik daun dengan berbagai macam bentuk dan warna yang cerah, seperti hijau, merah, kuning, dan oranye. Tanaman ini sering dijadikan tanaman hias karena warna daunnya yang menarik dan mudah tumbuh di iklim tropis.",
-      "image": "/assets/katalog/puring.png"
-    },
-    {
-      "parameter": "2",
-      "nama" : "Bunga Kertas",
-      "nama-latin": "Bougainvillea variegata",
-      "penjelasan": "Tanaman pada gambar adalah Bunga Kertas atau dikenal juga sebagai Croton (Codiaeum variegatum). Puring memiliki karakteristik daun dengan berbagai macam bentuk dan warna yang cerah, seperti hijau, merah, kuning, dan oranye. Tanaman ini sering dijadikan tanaman hias karena warna daunnya yang menarik dan mudah tumbuh di iklim tropis.",
-      "image": "/assets/katalog/bunga-kertas.png"
-    },
-    {
-      "parameter": "3",
-      "nama" : "Bayam Merah Hias",
-      "nama-latin": "Iresine herbstii",
-      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
-      "image": "/assets/katalog/bayam-merah-hias.png"
-    },
-    {
-      "parameter": "4",
-      "nama" : "Adam Hawa",
-      "nama-latin": "Tradescantia pallida",
-      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
-      "image": "/assets/katalog/adam-hawa.png"
-    },
-    {
-      "parameter": "5",
-      "nama" : "Sirih Gading",
-      "nama-latin": "Epipremnum aureum",
-      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
-      "image": "/assets/katalog/sirih-gading.png"
-    },
-    {
-      "parameter": "6",
-      "nama" : "Kaca Piring",
-      "nama-latin": "Gardenia jasminoides",
-      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
-      "image": "/assets/katalog/kaca-piring.png"
-    },
-    {
-      "parameter": "7",
-      "nama" : "Pacing Merah",
-      "nama-latin": "Coctus woodsonii",
-      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
-      "image": "/assets/katalog/pacing-merah.png"
-    },
-    {
-      "parameter": "8",
-      "nama" : "Palem Merah",
-      "nama-latin": "Cyrtostachys renda",
-      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
-      "image": "/assets/katalog/palem-merah.png"
-    },
-    {
-      "parameter": "9",
-      "nama" : "Lidah Mertua",
-      "nama-latin": "Sansevieria trifasciata",
-      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
-      "image": "/assets/katalog/lidah-mertua.png"
-    },
-    {
-      "parameter": "10",
-      "nama" : "Putri Malu",
-      "nama-latin": "Mimosa pudica",
-      "penjelasan": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime aliquid magni vitae similique doloribus praesentium iure natus ex quos molestias cumque dolores, recusandae quia quam. Cumque assumenda laborum dicta cum voluptatem quas numquam obcaecati aperiam veritatis exercitationem molestias excepturi nisi magnam officia eius, alias ea, culpa aut id dignissimos eos.",
-      "image": "/assets/katalog/putri-malu.png"
-    }
+  {
+    "parameter": "1",
+    "nama": "Puring",
+    "nama-latin": "Codiaeum variegatum",
+    "penjelasan": "Tanaman pada gambar adalah Puring atau dikenal juga sebagai Croton (Codiaeum variegatum). Puring memiliki karakteristik daun dengan berbagai macam bentuk dan warna yang cerah, seperti hijau, merah, kuning, dan oranye. Tanaman ini sering dijadikan tanaman hias karena warna daunnya yang menarik dan mudah tumbuh di iklim tropis.",
+    "image": "/assets/katalog/puring.png"
+  },
+  {
+    "parameter": "2",
+    "nama": "Bunga Kertas",
+    "nama-latin": "Bougainvillea variegata",
+    "penjelasan": "Tanaman pada gambar adalah Bunga Kertas atau dikenal juga sebagai Croton (Codiaeum variegatum). Puring memiliki karakteristik daun dengan berbagai macam bentuk dan warna yang cerah, seperti hijau, merah, kuning, dan oranye. Tanaman ini sering dijadikan tanaman hias karena warna daunnya yang menarik dan mudah tumbuh di iklim tropis.",
+    "image": "/assets/katalog/bunga-kertas.png"
+  },
+  {
+    "parameter": "3",
+    "nama": "Bayam Merah Hias",
+    "nama-latin": "Iresine herbstii",
+    "penjelasan": "Tanaman pada gambar ini adalah Daun Iresine atau dikenal juga sebagai Bloodleaf atau Iresine herbstii. Tanaman ini memiliki daun dengan corak warna hijau dan merah pada bagian batang dan tulang daun, memberikan tampilan kontras yang menarik. Iresine biasanya digunakan sebagai tanaman hias di taman karena warnanya yang mencolok dan kemampuannya tumbuh di berbagai kondisi.",
+    "image": "/assets/katalog/bayam-merah-hias.png"
+  },
+  {
+    "parameter": "4",
+    "nama": "Adam Hawa",
+    "nama-latin": "Tradescantia pallida",
+    "penjelasan": "Tradescantia pallida, yang dikenal dengan nama lokal Purple Heart atau Purple Queen. Tanaman ini memiliki daun berwarna ungu mencolok dan sering digunakan sebagai tanaman penutup tanah atau tanaman hias. Tanaman ini cukup tahan terhadap panas dan bisa tumbuh baik di bawah sinar matahari penuh maupun di tempat yang teduh.",
+    "image": "/assets/katalog/adam-hawa.png"
+  },
+  {
+    "parameter": "5",
+    "nama": "Sirih Gading",
+    "nama-latin": "Epipremnum aureum",
+    "penjelasan": "Epipremnum aureum, yang lebih dikenal sebagai Sirih Gading atau Pothos. Tanaman ini memiliki daun berbentuk hati dengan warna hijau mengkilap, kadang-kadang dengan corak putih atau kuning pucat pada beberapa varietas. Pothos adalah tanaman hias yang populer karena perawatannya yang mudah dan kemampuannya untuk tumbuh baik di dalam maupun di luar ruangan.",
+    "image": "/assets/katalog/sirih-gading.png"
+  },
+  {
+    "parameter": "6",
+    "nama": "Kaca Piring",
+    "nama-latin": "Gardenia jasminoides",
+    "penjelasan": "Gardenia jasminoides, yang dikenal sebagai bunga kaca piring atau gardenia. Ciri khasnya adalah daun hijau mengkilap dan tebal, dengan tekstur yang halus. Gardenia biasanya dihargai karena bunganya yang wangi dan berwarna putih, yang muncul saat tanaman dewasa. Tanaman ini cocok untuk area yang mendapatkan sinar matahari sebagian dan sering digunakan sebagai tanaman hias di taman atau pekarangan.",
+    "image": "/assets/katalog/kaca-piring.png"
+  },
+  {
+    "parameter": "7",
+    "nama": "Pacing Merah",
+    "nama-latin": "Coctus woodsonii",
+    "penjelasan": "Costus woodsonii, yang sering dikenal sebagai red button ginger atau Indian head ginger. Tanaman ini terkenal dengan daunnya yang hijau mengkilap dan bunga berbentuk kuncup berwarna merah di ujung batang. Costus woodsonii biasanya digunakan sebagai tanaman hias, baik di taman maupun sebagai pembatas. Selain itu, tanaman ini cukup mudah dirawat dan tumbuh baik di lingkungan tropis seperti Indonesia.",
+    "image": "/assets/katalog/pacing-merah.png"
+  },
+  {
+    "parameter": "8",
+    "nama": "Palem Merah",
+    "nama-latin": "Cyrtostachys renda",
+    "penjelasan": "Palem merah atau dikenal sebagai Cyrtostachys renda. Ciri khas tanaman ini adalah batangnya yang berwarna merah cerah, terutama pada tanaman dewasa, sehingga sering dijadikan tanaman hias atau elemen estetis di taman. Palem merah sangat populer di Indonesia karena keunikan warnanya dan cocok untuk lingkungan tropis.",
+    "image": "/assets/katalog/palem-merah.png"
+  },
+  {
+    "parameter": "9",
+    "nama": "Lidah Mertua",
+    "nama-latin": "Sansevieria trifasciata",
+    "penjelasan": "Sansevieria trifasciata adalah nama latin untuk tanaman yang lebih dikenal sebagai lidah mertua atau snake plant.  Sansevieria trifasciata sangat populer sebagai tanaman hias indoor karena perawatannya yang mudah dan kemampuannya untuk bertahan di berbagai kondisi cahaya. Selain itu, tanaman ini juga dikenal memiliki manfaat sebagai pembersih udara alami karena mampu menyerap racun seperti formaldehida dan benzena dari udara.",
+    "image": "/assets/katalog/lidah-mertua.png"
+  },
+  {
+    "parameter": "10",
+    "nama": "Putri Malu",
+    "nama-latin": "Mimosa pudica",
+    "penjelasan": "Mimosa pudica, atau yang dikenal dengan nama putri malu, adalah tanaman unik yang terkenal karena responsnya terhadap sentuhan. Ketika disentuh, daunnya akan menutup dan menguncup, seolah-olah 'malu' kemudian akan membuka kembali setelah beberapa waktu. Tanaman ini berasal dari daerah tropis Amerika, tetapi kini telah menyebar luas di berbagai negara tropis lainnya.",
+    "image": "/assets/katalog/putri-malu.png"
+  }
 ]
-  

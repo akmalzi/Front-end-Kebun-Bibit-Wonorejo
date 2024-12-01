@@ -1,13 +1,24 @@
-function CardDetail({ judul, namaLatin, penjelasan, gambar }){
+import { Link } from "react-router-dom";
+function CardDetail({ judul, namaLatin, penjelasan, gambar }) {
   return (
     <>
       <div className="w-full px-4 xl:px-20 h-fit my-8 xl:my-20">
+        <Link
+          to="/katalog"
+          className="hover:text-[#73ba10] text-black text-base font-normal font-poppins "
+        >
+          Kembali
+        </Link>
         <div className="flex mt-11 flex-col md-2:flex-row">
           <div className="flex flex-col xl:items-center xl:flex-row w-full mx-auto xl:w-5/12">
             <h1 className="block md-2:hidden align-start text-primary-600 text-[40px] font-bold font-poppins mb-2">
-            {judul}
+              {judul}
             </h1>
-            <img src={gambar} alt="" className="xl:w-full h-full rounded-lg shadow-lg" />
+            <img
+              src={gambar}
+              alt=""
+              className="xl:w-full h-full rounded-lg shadow-lg"
+            />
           </div>
           <div className="w-full mt-4 xl:mt-0 xl:w-7/12 flex flex-col px-0 md-2:px-4 justify-center">
             <h1 className="hidden md-2:block text-primary-600 text-[40px] font-bold font-poppins">
@@ -24,6 +35,6 @@ function CardDetail({ judul, namaLatin, penjelasan, gambar }){
       </div>
     </>
   );
-};
+}
 
 export default CardDetail;
