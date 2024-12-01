@@ -27,11 +27,20 @@ function Navbar() {
             <li>
               <Link
                 className="mx-5 text-lg transition duration-200 ease-in text-black hover:text-primary-600"
+                to={"/telusuri"}
+              >
+                Telusuri
+              </Link>
+            </li>
+            <li>
+              <Link
+                className="mx-5 text-lg transition duration-200 ease-in text-black hover:text-primary-600"
                 to={"/katalog"}
               >
                 Katalog
               </Link>
             </li>
+
             <li>
               <Link
                 className="mx-5 text-lg transition duration-200 ease-in text-black hover:text-primary-600"
@@ -44,30 +53,11 @@ function Navbar() {
             <li>
               <Link
                 className="mx-5 text-lg transition duration-200 ease-in text-black hover:text-primary-600"
-                to={"/navigasi"}
-              >
-                Navigasi
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="mx-5 text-lg transition duration-200 ease-in text-black hover:text-primary-600"
-                to={"/fasilitas"}
-              >
-                Fasilitas
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="mx-5 text-lg transition duration-200 ease-in text-black hover:text-primary-600"
                 to={"/forum"}
               >
                 Forum
               </Link>
             </li>
-            {/* <li>
-                            <TelusuriButton/>
-                        </li> */}
           </ul>
         </div>
         <div className="w-[136px] text-end">
